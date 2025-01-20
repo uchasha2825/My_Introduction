@@ -86,9 +86,9 @@ English, Hindi, Bengali, and a bit of French.
 🔹 **Machine Learning & AI:** Scikit-Learn, TensorFlow, Neural Networks  
 🔹 **Data Analysis & Visualization:** Power BI, Tableau, Excel  
 🔹 **Databases:** SQL, MySQL  
-🔹 **Cloud & DevOps:** AWS, IBM Watson 
-🔹 **Platforms known:** Anaconda, Juptyer Notebook, VS Studio Code.
-🔹 **Web Development:** HTML, CSS, JavaScript 
+🔹 **Cloud & DevOps:** AWS, IBM Watson  
+🔹 **Platforms Known:** Anaconda, Jupyter Notebook, VS Code  
+🔹 **Web Development:** HTML, CSS, JavaScript
 
 ---
 
@@ -113,8 +113,6 @@ Let's collaborate and stay connected!
 [![GitHub](https://img.shields.io/badge/GitHub-Uchasha2825-black)](https://github.com/uchasha2825)  
 [![Tableau](https://img.shields.io/badge/Tableau-Visualizations-orange)](https://public.tableau.com/app/profile/uchasha.mukherjee/vizzes)  
 ✉️ Email: [uchasha.mukherjee25@gmail.com]  
-
----
 
 ---
 
