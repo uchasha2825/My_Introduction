@@ -20,65 +20,90 @@ I'm a **final-year Computer Science Engineering student** at **MIT ADT Universit
 
 ---
 
-## 💼 Projects & Work (Based On Visualization Dashboards)  
-🔹 **Stock Market Analysis Dashboard** 📊 *(Tableau & Python)*    
-🔹 **Self-Driving Car Stop Sign Detection** 🚗 *(CV Studio & IBM Code Engine)*  
-🔹 **Bank Customer Churn Analysis** 💰 *(Data-Driven Business Insights)*  
+## 📊 Visualization-Based Projects  
+### 1️⃣ **Stock Market Analysis Dashboard** *(Tableau)*  
+- Analyzed historical stock price trends and trading volumes.  
+- Implemented **moving averages and trend lines** to detect market patterns.  
 
-## 📌 Projects & Work (Overall)  
-### 1️⃣ **DashLearn: Empowering Learning Through Personalization**  
-📅 **Duration:** July 2024 – Dec 2024  
-👨‍💻 **Team Size:** 4  
-🛠 **Tech Stack:** Python, React, Node.js, AWS  
-🔹 Built an **interactive learning dashboard** with **personalized course recommendations**.  
-🔹 Integrated a **motivation boost system** with badges, certificates, and streaks.  
-🔹 Developed an **AI-based recommendation system** for course suggestions.  
+### 2️⃣ **Happiness Visualization Dashboard** *(Tableau)*  
+- Visualized **World Happiness Report** data with key factors like GDP, social support, and freedom.  
 
-### 2️⃣ **Diabetes Detection using Machine Learning**  
-📅 **Duration:** Jan 2024 – Apr 2024  
-👨‍💻 **Mentor:** Dr. Amol Bhosale | **Team Size:** 4  
-🛠 **Tech Stack:** Machine Learning (SVM)  
-🔹 Developed a **diabetes prediction model** using **Support Vector Machine (SVM)**.  
-🔹 Achieved **78% training accuracy** and **75% testing accuracy**.  
+### 3️⃣ **UK Bank Departures Dashboard** *(Tableau)*  
+- Explored trends in **customer churn** from major UK banks.  
+- Identified reasons for **customer attrition** using visual analytics.  
+
+### 4️⃣ **Brazil Tourism Trend Dashboard** *(Tableau)*  
+- Analyzed **tourist inflow trends** in Brazil over the years.  
+- Provided insights into **seasonal trends and visitor demographics**.  
+
+### 5️⃣ **Sales Executive Summary Dashboard** *(Power BI)*  
+- Created a **comprehensive sales performance dashboard**.  
+- Provided insights into **revenue, sales trends, and executive performance**.  
+
+### 6️⃣ **Chain of Car Dealerships Dashboard** *(Excel)*  
+- Built an **Excel-based dashboard** to track **sales performance across dealerships**.  
+- Implemented **pivot tables and charts** for better data visualization.  
+
+### 7️⃣ **Car Sales Dashboard by IBM Cognos** *(IBM Cognos)*  
+- Designed an **interactive dashboard** to analyze **car sales trends and profitability**.  
+
+### 8️⃣ **Services Dashboard of Cars in IBM Cognos** *(IBM Cognos)*  
+- Visualized **car service data** to identify **high-demand services and revenue sources**.  
+
+---
+
+## 🤖 Machine Learning & AI Projects  
+### 1️⃣ **DashLearn: AI-Powered Learning Platform** *(Python, React, Node.js, AWS)*  
+- Built an **interactive learning dashboard** with **personalized course recommendations**.  
+- Integrated a **motivation boost system** with badges, certificates, and streaks.  
+
+### 2️⃣ **Diabetes Detection using Machine Learning** *(SVM Classification)*  
+- Developed a **diabetes prediction model** using **Support Vector Machine (SVM)**.  
+- Achieved **78% training accuracy** and **75% testing accuracy**.  
 
 ### 3️⃣ **Indoor Navigation using RTLS (Real-Time Location System)**  
-📅 **Duration:** July 2023 – Dec 2023  
-👨‍💻 **Mentor:** Dr. Amol Bhosale | **Team Size:** 4  
-🔹 Created a **campus navigation system** to help students and staff locate places easily.  
-🔹 Reduced **navigation time** and improved accessibility across the institution.  
+- Created a **campus navigation system** to help students and staff locate places easily.  
+- Reduced **navigation time** and improved accessibility across the institution.  
 
-### 4️⃣ **Malware Detection using Machine Learning**  
-📅 **Duration:** Jan 2023 – May 2023  
-👨‍💻 **Mentor:** Dr. Jayashree Prasad | **Team Size:** 4  
-🛠 **Tech Stack:** Machine Learning (KNN, SVM)  
-🔹 Developed a **malware detection system** using ML techniques.  
-🔹 Implemented **K-Nearest Neighbors (KNN)** and **Support Vector Machine (SVM)** for classification.  
+### 4️⃣ **Malware Detection using Machine Learning** *(KNN, SVM)*  
+- Developed a **malware detection system** using ML techniques.  
+- Implemented **K-Nearest Neighbors (KNN)** and **Support Vector Machine (SVM)** for classification.  
 
 ### 5️⃣ **Keratoconus Detection of Eyes using AI & ML**  
-📅 **Duration:** Aug 2022 – Dec 2022  
-👨‍💻 **Mentor:** Dr. Jayashree Prasad | **Team Size:** 4  
-🔹 Developed an **AI-powered system** to detect **Keratoconus**, an eye disease.  
-🔹 Implemented **ML models** to analyze eye images for early diagnosis.  
+- Developed an **AI-powered system** to detect **Keratoconus**, an eye disease.  
+- Implemented **ML models** to analyze eye images for early diagnosis.  
+
+---
+
+## 🛠️ Skills & Technologies  
+🔹 **Programming:** Python, R, C, C++  
+🔹 **Machine Learning & AI:** Scikit-Learn, TensorFlow, Neural Networks  
+🔹 **Data Analysis & Visualization:** Power BI, Tableau, Excel  
+🔹 **Databases:** SQL, MySQL  
+🔹 **Cloud & DevOps:** AWS, IBM Watson 
+🔹 **Web Development:** HTML, CSS, JavaScript  
 
 ---
 
 
+## 📜 Certifications
+✔ **Google Data Analytics Professional Certificate**
+✔ **IBM Data Analysis and Visualization Certificate**
+✔ **AWS Academy Cloud Foundations**
+✔ **Neural Networks & Deep Learning (DeepLearning.AI)**
+✔ **Tableau & Power BI for Data Visualization**
+✔ **Python for Data Science & AI (IBM)**
+
 ---
+## 📡 Connect With Me  
+Let's collaborate and stay connected!  
 
-## 🛠️ Tech Stack  
-🔹 **Languages**: Python, SQL, R  
-🔹 **Libraries**: NumPy, Pandas, Scikit-Learn, TensorFlow, Matplotlib  
-🔹 **Tools**: Power BI, Tableau, Excel, Anaconda, Jupyter Notebook  
-🔹 **Cloud & Platforms**: IBM Watson, AWS, GitHub, VS Code  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uchasha%20Mukherjee-blue)](https://www.linkedin.com/in/uchasha-mukherjee-409939284/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Uchasha2825-black)](https://github.com/uchasha2825)  
+[![Tableau](https://img.shields.io/badge/Tableau-Visualizations-orange)](https://public.tableau.com/app/profile/uchasha.mukherjee/vizzes)  
+✉️ Email: [uchasha.mukherjee25@gmail.com]  
 
 ---
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uchasha-mukherjee)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/uchasha07)  
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/profile/uchasha07)  
-
-💌 **Email**: [your.email@example.com](mailto:your.email@example.com) *(Replace with your actual email)*  
 
 ---
 
