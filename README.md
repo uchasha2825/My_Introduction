@@ -87,8 +87,8 @@ English, Hindi, Bengali, and a bit of French.
 🔹 **Data Analysis & Visualization:** Power BI, Tableau, Excel  
 🔹 **Databases:** SQL, MySQL  
 🔹 **Cloud & DevOps:** AWS, IBM Watson 
-🔹 **Web Development:** HTML, CSS, JavaScript  
 🔹 **Platforms known:** Anaconda, Juptyer Notebook, VS Studio Code.
+🔹 **Web Development:** HTML, CSS, JavaScript 
 
 
 ---
