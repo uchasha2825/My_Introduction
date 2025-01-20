@@ -101,6 +101,8 @@ English, Hindi, Bengali, and a bit of French.
 ✔ **Tableau & Power BI for Data Visualization**
 ✔ **Python for Data Science & AI (IBM)**
 
+---
+
 ## 🏆 [**Credly Badges**]
 (https://www.credly.com/users/uchasha-mukherjee)
 
