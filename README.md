@@ -90,7 +90,6 @@ English, Hindi, Bengali, and a bit of French.
 🔹 **Platforms known:** Anaconda, Juptyer Notebook, VS Studio Code.
 🔹 **Web Development:** HTML, CSS, JavaScript 
 
-
 ---
 
 
