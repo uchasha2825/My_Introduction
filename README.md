@@ -15,6 +15,12 @@ I'm a **final-year Computer Science Engineering student** at **MIT ADT Universit
 
 ---
 
+## 🌍 Languages I Speak
+English, Hindi, Bengali, and a bit of French.
+
+---
+
+
 ## 💼 Experience & Internships
 🔹 **AI/ML Intern | Intrainz** (Price Comparison System)
 
@@ -82,6 +88,8 @@ I'm a **final-year Computer Science Engineering student** at **MIT ADT Universit
 🔹 **Databases:** SQL, MySQL  
 🔹 **Cloud & DevOps:** AWS, IBM Watson 
 🔹 **Web Development:** HTML, CSS, JavaScript  
+🔹 **Platforms known:** Anaconda, Juptyer Notebook, VS Studio Code.
+
 
 ---
 
@@ -94,7 +102,11 @@ I'm a **final-year Computer Science Engineering student** at **MIT ADT Universit
 ✔ **Tableau & Power BI for Data Visualization**
 ✔ **Python for Data Science & AI (IBM)**
 
+## 🏆 [**Credly Badges**]
+(https://www.credly.com/users/uchasha-mukherjee)
+
 ---
+
 ## 📡 Connect With Me  
 Let's collaborate and stay connected!  
 
