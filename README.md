@@ -21,9 +21,7 @@ I'm a **final-year Computer Science Engineering student** at **MIT ADT Universit
 ---
 
 ## 💼 Projects & Work (Based On Visualization Dashboards)  
-🔹 **Stock Market Analysis Dashboard** 📊 *(Tableau & Python)*  
-🔹 **** 🤖 *(CNN-based model with Dimensionality Reduction)*  
-🔹 **Diabetes Prediction** 🏥 *(Healthcare AI Analytics with ML)*  
+🔹 **Stock Market Analysis Dashboard** 📊 *(Tableau & Python)*    
 🔹 **Self-Driving Car Stop Sign Detection** 🚗 *(CV Studio & IBM Code Engine)*  
 🔹 **Bank Customer Churn Analysis** 💰 *(Data-Driven Business Insights)*  
 
