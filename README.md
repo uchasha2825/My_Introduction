@@ -93,13 +93,24 @@ English, Hindi, Bengali, and a bit of French.
 ---
 
 
-## 📜 Certifications
+📜 Certifications
 ✔ **Google Data Analytics Professional Certificate**
+Gained foundational knowledge in data analysis, including data cleaning, visualization, and statistical analysis using tools like SQL, Excel, and R.
+
 ✔ **IBM Data Analysis and Visualization Certificate**
+Focused on using Python, SQL, and visualization tools to perform exploratory data analysis and present actionable insights.
+
 ✔ **AWS Academy Cloud Foundations**
+Developed understanding of cloud computing concepts, AWS services, and how to deploy applications in the cloud.
+
 ✔ **Neural Networks & Deep Learning (DeepLearning.AI)**
+Learned the fundamentals of deep learning, including neural networks, training algorithms, and model evaluation using TensorFlow.
+
 ✔ **Tableau & Power BI for Data Visualization**
+Mastered the art of data visualization with hands-on projects using Tableau and Power BI to create interactive dashboards and reports.
+
 ✔ **Python for Data Science & AI (IBM)**
+Acquired proficiency in Python programming for data science tasks, including working with libraries like Pandas, NumPy, and Matplotlib.
 
 ---
 
