@@ -1,136 +1,96 @@
-# 👋 Hi, I'm Uchasha Mukherjee!  
-
-### 🚀 Data Science | Data Analytics | Data Visualization | Tableau | Power BI | IBM Cognos | AI | Machine Learning |   
-
-I'm a **final-year Computer Science Engineering student** at **MIT ADT University**, passionate about solving real-world problems using **Data Science, AI, and Machine Learning**. I aim to create **impactful solutions** that drive user satisfaction and business growth.  
-
----
-
-## 🔥 About Me  
-🎓 **Final Year CSE Student** at MIT ADT University  
-📊 **Aspiring Data Scientist & Business Analyst**  
-📈 Passionate about **Data Analytics, AI, and Predictive Modeling**  
-🎯 Seeking to innovate in **Data Science & AI-driven solutions**  
-🎓 **Future Goal**: MBA in **Data Analytics**  
+<h1 align="center">👋 Hi, I'm Uchasha Mukherjee!</h1>
+<p align="center">
+  🚀 Final Year CSE Student | Data Science Enthusiast | Aspiring Analyst  
+</p>
 
 ---
 
-## 🌍 Languages I Speak
-English, Hindi, Bengali, and a bit of French.
+### 💡 About Me
+
+🎓 **Final Year Computer Science Engineering student** at **MIT ADT University**  
+🔍 Passionate about solving **real-world problems** through **AI, ML & Data Science**  
+📊 Future Aspirations: **MBA in Data Analytics**  
+💼 Looking to innovate through **Data-driven decision-making** & **Predictive Analytics**
 
 ---
 
+### 🌍 Languages I Speak
+
+`English` | `Hindi` | `Bengali` | `French (basic)`
+
+---
+
+## 🧠 Skills & Technologies
+
+- **Programming:** Python, R, C, C++
+- **Data Analysis & Visualization:** Power BI, Tableau, Excel  
+- **ML & AI Frameworks:** Scikit-Learn, TensorFlow, Neural Networks  
+- **Database Tools:** SQL, MySQL  
+- **Cloud:** AWS, IBM Watson  
+- **Tools & Platforms:** Anaconda, Jupyter Notebook, VS Code  
+- **Web Dev:** HTML, CSS, JavaScript  
+
+---
 
 ## 💼 Experience & Internships
-🔹 **AI/ML Intern | Intrainz** (Price Comparison System)
+
+- 🔹 **AI/ML Intern – Intrainz**  
+  *Developed a Price Comparison System leveraging ML techniques*
 
 ---
 
-## 📊 Visualization-Based Projects  
-### 1️⃣ **Stock Market Analysis Dashboard** *(Tableau)*  
-- Analyzed historical stock price trends and trading volumes.  
-- Implemented **moving averages and trend lines** to detect market patterns.  
+## 📊 Featured Projects
 
-### 2️⃣ **Happiness Visualization Dashboard** *(Tableau)*  
-- Visualized **World Happiness Report** data with key factors like GDP, social support, and freedom.  
+### 🔹 Data Visualization Dashboards
 
-### 3️⃣ **UK Bank Departures Dashboard** *(Tableau)*  
-- Explored trends in **customer churn** from major UK banks.  
-- Identified reasons for **customer attrition** using visual analytics.  
-
-### 4️⃣ **Brazil Tourism Trend Dashboard** *(Tableau)*  
-- Analyzed **tourist inflow trends** in Brazil over the years.  
-- Provided insights into **seasonal trends and visitor demographics**.  
-
-### 5️⃣ **Sales Executive Summary Dashboard** *(Power BI)*  
-- Created a **comprehensive sales performance dashboard**.  
-- Provided insights into **revenue, sales trends, and executive performance**.  
-
-### 6️⃣ **Chain of Car Dealerships Dashboard** *(Excel)*  
-- Built an **Excel-based dashboard** to track **sales performance across dealerships**.  
-- Implemented **pivot tables and charts** for better data visualization.  
-
-### 7️⃣ **Car Sales Dashboard by IBM Cognos** *(IBM Cognos)*  
-- Designed an **interactive dashboard** to analyze **car sales trends and profitability**.  
-
-### 8️⃣ **Services Dashboard of Cars in IBM Cognos** *(IBM Cognos)*  
-- Visualized **car service data** to identify **high-demand services and revenue sources**.  
+| Tool        | Project                                                                 |
+|-------------|-------------------------------------------------------------------------|
+| Tableau     | 📈 Stock Market Analysis Dashboard – *Trend lines, moving averages*     |
+| Tableau     | 😊 World Happiness Report Dashboard – *GDP, freedom, social support*    |
+| Tableau     | 🏦 UK Bank Departures – *Churn & attrition analysis*                    |
+| Tableau     | 🇧🇷 Brazil Tourism Trends – *Seasonal & demographic travel insights*     |
+| Power BI    | 📋 Sales Executive Summary – *Revenue & performance overview*           |
+| Excel       | 🚗 Car Dealership Performance – *Pivot tables & visual insights*        |
+| IBM Cognos  | 🚙 Car Sales & Services Dashboards – *Sales trends, revenue analytics*  |
 
 ---
 
-## 🤖 Machine Learning & AI Projects  
-### 1️⃣ **DashLearn: AI-Powered Learning Platform** *(Python, React, Node.js, AWS)*  
-- Built an **interactive learning dashboard** with **personalized course recommendations**.  
-- Integrated a **motivation boost system** with badges, certificates, and streaks.  
+### 🤖 Machine Learning & AI Projects
 
-### 2️⃣ **Diabetes Detection using Machine Learning** *(SVM Classification)*  
-- Developed a **diabetes prediction model** using **Support Vector Machine (SVM)**.  
-- Achieved **78% training accuracy** and **75% testing accuracy**.  
-
-### 3️⃣ **Indoor Navigation using RTLS (Real-Time Location System)**  
-- Created a **campus navigation system** to help students and staff locate places easily.  
-- Reduced **navigation time** and improved accessibility across the institution.  
-
-### 4️⃣ **Malware Detection using Machine Learning** *(KNN, SVM)*  
-- Developed a **malware detection system** using ML techniques.  
-- Implemented **K-Nearest Neighbors (KNN)** and **Support Vector Machine (SVM)** for classification.  
-
-### 5️⃣ **Keratoconus Detection of Eyes using AI & ML**  
-- Developed an **AI-powered system** to detect **Keratoconus**, an eye disease.  
-- Implemented **ML models** to analyze eye images for early diagnosis.  
+| Project Title                                             | Highlights                                                |
+|-----------------------------------------------------------|-----------------------------------------------------------|
+| DashLearn – AI-Powered Learning Platform                  | Personalized learning, badges & recommendation system     |
+| Diabetes Prediction (SVM)                                 | Achieved 78% training & 75% testing accuracy              |
+| Indoor Navigation System (RTLS)                           | Reduced search time using real-time positioning           |
+| Malware Detection (KNN, SVM)                              | Classified threats using multiple ML techniques           |
+| Keratoconus Detection (AI/ML)                             | Early eye disease detection with ML-powered diagnostics   |
 
 ---
 
-## 🛠️ Skills & Technologies  
-🔹 **Programming:** Python, R, C, C++  
-🔹 **Machine Learning & AI:** Scikit-Learn, TensorFlow, Neural Networks  
-🔹 **Data Analysis & Visualization:** Power BI, Tableau, Excel  
-🔹 **Databases:** SQL, MySQL  
-🔹 **Cloud & DevOps:** AWS, IBM Watson  
-🔹 **Platforms Known:** Anaconda, Jupyter Notebook, VS Code  
-🔹 **Web Development:** HTML, CSS, JavaScript
+## 🧾 Certifications
+
+- ✅ Google Data Analytics Professional Certificate  
+- ✅ Google Advanced Data Analytics Certificate  
+- ✅ IBM Data Analysis and Visualization Certificate  
+- ✅ AWS Academy Cloud Foundations  
+- ✅ Neural Networks & Deep Learning – DeepLearning.AI  
+- ✅ Python for Data Science & AI – IBM  
+- ✅ Tableau & Power BI for Data Visualization  
 
 ---
 
-
-📜 Certifications
-✔ Google Data Analytics Professional Certificate
-Gained foundational knowledge in data analysis, including data cleaning, visualization, and statistical analysis using tools like SQL, Excel, and R.
-
-✔ Google Advanced Data Analytics Certificate
-Expanded on foundational skills with advanced topics such as machine learning, predictive modeling, and data-driven decision-making using Python and BigQuery.
-
-✔ IBM Data Analysis and Visualization Certificate
-Focused on using Python, SQL, and visualization tools to perform exploratory data analysis and present actionable insights.
-
-✔ AWS Academy Cloud Foundations
-Developed understanding of cloud computing concepts, AWS services, and how to deploy applications in the cloud.
-
-✔ Neural Networks & Deep Learning (DeepLearning.AI)
-Learned the fundamentals of deep learning, including neural networks, training algorithms, and model evaluation using TensorFlow.
-
-✔ Tableau & Power BI for Data Visualization
-Mastered the art of data visualization with hands-on projects using Tableau and Power BI to create interactive dashboards and reports.
-
-✔ **Python for Data Science & AI (IBM)**
-Acquired proficiency in Python programming for data science tasks, including working with libraries like Pandas, NumPy, and Matplotlib.
+## 🏅 Credly Badges  
+[![Credly](https://img.shields.io/badge/Credly-Badges-orange)](https://www.credly.com/users/uchasha-mukherjee)
 
 ---
 
-## 🏆 [**Credly Badges**]
-(https://www.credly.com/users/uchasha-mukherjee)
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uchasha%20Mukherjee-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uchasha-mukherjee-409939284/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Uchasha2825-black?style=for-the-badge&logo=github)](https://github.com/uchasha2825)  
+[![Tableau](https://img.shields.io/badge/Tableau-Visualizations-orange?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/uchasha.mukherjee/vizzes)  
+📧 Email: [uchasha.mukherjee25@gmail.com](mailto:uchasha.mukherjee25@gmail.com)
 
 ---
 
-## 📡 Connect With Me  
-Let's collaborate and stay connected!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uchasha%20Mukherjee-blue)](https://www.linkedin.com/in/uchasha-mukherjee-409939284/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Uchasha2825-black)](https://github.com/uchasha2825)  
-[![Tableau](https://img.shields.io/badge/Tableau-Visualizations-orange)](https://public.tableau.com/app/profile/uchasha.mukherjee/vizzes)  
-✉️ Email: [uchasha.mukherjee25@gmail.com]  
-
----
-
-### 🚀 Always Learning & Growing!  
-*"Driven by curiosity, powered by data."*  
+### 🌟 *“Driven by curiosity, powered by data.”*
