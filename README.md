@@ -88,6 +88,7 @@
   <a href="https://www.linkedin.com/in/uchasha-mukherjee-409939284/"><img src="https://img.shields.io/badge/LinkedIn-Uchasha%20Mukherjee-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/uchasha2825"><img src="https://img.shields.io/badge/GitHub-uchasha2825-black?style=for-the-badge&logo=github"></a>
   <a href="https://public.tableau.com/app/profile/uchasha.mukherjee/vizzes"><img src="https://img.shields.io/badge/Tableau-Dashboards-orange?style=for-the-badge&logo=tableau"></a>
+  <a href="https://www.credly.com/users/uchasha-mukherjee"><img src="https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly"></a>
 </p>
 
 ---
