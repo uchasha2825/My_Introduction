@@ -1,23 +1,23 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  👩‍💻✨ Hello, I'm <span style="color:#6C63FF;">Uchasha Mukherjee</span>!
+<h1 align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  👋✨ Hi there! I'm <span style="color:#6C63FF;"><strong>Uchasha Mukherjee</strong></span>
 </h1>
 
 <p align="center" style="font-size: 1.2rem; font-weight: 500;">
   🚀 Final Year <strong>Computer Science Engineering</strong> Student at <strong>MIT ADT University</strong> <br>
   📊 Passionate about <em>Data Science</em>, <em>Machine Learning</em>, and <em>AI</em> <br>
-  🌟 Aspiring <strong>Data Analyst</strong> | 💡 Driven by curiosity & creativity
+  🌟 Aspiring <strong>Data Analyst</strong> | 💡 Fueled by curiosity & purpose
 </p>
-
 
 ---
 
 ### 💡 About Me
 
-🎓 Final Year **Computer Science Engineering** student at **MIT ADT University**  
-📈 Passionate about **AI, ML, and Data Science**  
-📊 Future Goals: MBA in **Data Analytics**  
-🧠 Thrives on solving complex problems with **data-driven insights**  
-💡 Always eager to **learn, innovate**, and create a **positive impact**
+🎓 Currently pursuing my **B.Tech in Computer Science** from **MIT ADT University**  
+🤖 Enthusiast in **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**  
+📊 Career Goal: To pursue an **MBA in Data Analytics** and shape the future with data  
+🧠 I thrive on solving **real-world problems** using innovative, data-driven approaches  
+🌟 Constantly learning, creating, and seeking ways to make a **meaningful impact**
+
 
 ---
 
