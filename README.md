@@ -1,14 +1,13 @@
 <h1 align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  👋✨ Hi there! I'm <span style="color:#6C63FF;"><strong>Uchasha Mukherjee</strong></span>
+  🌟 Hello World! I'm <span style="color:#FF6F61;"><strong>Uchasha Mukherjee</strong></span>
 </h1>
 
 <p align="center" style="font-size: 1.2rem; font-weight: 500;">
-  🚀 Final Year <strong>Computer Science Engineering</strong> Student at <strong>MIT ADT University</strong> <br>
-  📊 Passionate about <em>Data Science</em>, <em>Machine Learning</em>, and <em>AI</em> <br>
-  🌟 Aspiring <strong>Data Analyst</strong> | 💡 Fueled by curiosity & purpose
+  🎓 Final Year <strong>Computer Science Engineering</strong> Student at <strong>MIT ADT University</strong> <br>
+  🧠 Passionate Explorer of <em>AI</em>, <em>Machine Learning</em>, and <em>Data Science</em> <br>
+  📌 Future Data Analyst | 🔍 In pursuit of insights that inspire change
 </p>
 
----
 
 ### 💡 About Me
 
