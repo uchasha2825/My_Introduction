@@ -1,7 +1,13 @@
-<h1 align="center">👋 Hi, I'm Uchasha Mukherjee!</h1>
-<p align="center">
-  🚀 Final Year CSE Student | Data Science Enthusiast | Aspiring Analyst  
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  👩‍💻✨ Hello, I'm <span style="color:#6C63FF;">Uchasha Mukherjee</span>!
+</h1>
+
+<p align="center" style="font-size: 1.2rem; font-weight: 500;">
+  🚀 Final Year <strong>Computer Science Engineering</strong> Student at <strong>MIT ADT University</strong> <br>
+  📊 Passionate about <em>Data Science</em>, <em>Machine Learning</em>, and <em>AI</em> <br>
+  🌟 Aspiring <strong>Data Analyst</strong> | 💡 Driven by curiosity & creativity
 </p>
+
 
 ---
 
