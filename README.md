@@ -4,7 +4,7 @@
 
 <p align="center" style="font-size: 1.2rem; font-weight: 500;">
   💼 Aspiring <strong>Data Analyst</strong> | 🔬 Data Science & <em>AI Enthusiast</em> <br>
-  🎓 Final Year <strong>Computer Science Engineering</strong> Student at <strong>MIT ADT University</strong> <br>
+  🎓 Graduated in <strong>Computer Science Engineering</strong> Student at <strong>MIT ADT University</strong> <br>
   🚀 Passionate about using <em>data to drive decisions</em> and <em>build smart solutions</em>
 </p>
 
