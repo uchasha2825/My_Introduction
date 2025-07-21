@@ -1,102 +1,142 @@
-<h1 align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  📊 Hello, I'm <span style="color:#6C63FF;"><strong>Uchasha Mukherjee</strong></span>
-</h1>
+# Hi there, I'm Uchasha Mukherjee! 👋
 
-<p align="center" style="font-size: 1.2rem; font-weight: 500;">
-  💼 Aspiring <strong>Data Analyst</strong> | 🔬 Data Science & <em>AI Enthusiast</em> <br>
-  🎓 Graduated in <strong>Computer Science Engineering</strong> Student at <strong>MIT ADT University</strong> <br>
-  🚀 Passionate about using <em>data to drive decisions</em> and <em>build smart solutions</em>
-</p>
+## 🚀 About Me
 
+I'm a **Computer Science Engineering graduate** from Mumbai, India, passionate about transforming data into actionable insights! With expertise in **data analytics**, **machine learning**, and **business intelligence**, I love building solutions that drive data-driven decision-making.
 
-
-### 💡 About Me
-
-🎓 Currently pursuing my **B.Tech in Computer Science** from **MIT ADT University**  
-🤖 Enthusiast in **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**  
-📊 Career Goal: To pursue an **MBA in Data Analytics** and shape the future with data  
-🧠 I thrive on solving **real-world problems** using innovative, data-driven approaches  
-🌟 Constantly learning, creating, and seeking ways to make a **meaningful impact**
-
+🔍 **What I do**: Turn complex datasets into compelling stories through interactive dashboards and predictive models  
+📊 **My impact**: Delivered solutions that improved reporting efficiency by 40% and enhanced decision-making by 30%  
+🎯 **Currently**: Exploring advanced AI/ML applications and seeking opportunities in data science
 
 ---
 
-### 🌍 Languages I Speak
+## 💼 Professional Experience
 
-`English` | `Hindi` | `Bengali` | `French (Basic)`
+### 🏥 **Data Analyst Intern** @ MedTourEasy
+*March 2025 - May 2025*
+- Led "Three Healthcare Analytics" project analyzing patient trends and treatment preferences
+- Delivered interactive dashboards improving reporting efficiency by **40%**
+- Collaborated with cross-functional teams on strategic analytics projects
 
----
+### 💼 **Virtual Intern** @ Tata Consultancy Services (Forage)
+*June 2025*
+- Designed data visualizations for TCS senior leadership strategic decision-making
+- Created executive-level dashboards presenting key business trends
+- Prepared targeted discussion points for high-impact client meetings
 
-### 🧠 Skills & Technologies
-
-- **Languages:** Python, R, C, C++
-- **Data & Visualization:** Power BI, Tableau, Excel  
-- **AI & ML:** Scikit-learn, TensorFlow, Neural Networks  
-- **Databases:** SQL, MySQL  
-- **Tools:** Anaconda, Jupyter Notebook, IBM Watson, AWS  
-- **Development:** HTML, CSS, JavaScript, VS Code  
-
----
-
-### 💼 Internship Experience
-
-🔹 **AI/ML Intern – Intrainz**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Built a **Price Comparison System** using ML models to streamline consumer decisions
+### 🔍 **Virtual Intern** @ Deloitte (Forage)
+*June 2025*
+- Completed data analytics and forensic technology simulation
+- Designed comprehensive Tableau dashboards for business insights
+- Utilized Excel for advanced data classification and analysis
 
 ---
 
-### 🚀 Projects
+## 🛠️ Technical Skills
 
-#### 🔸 DashLearn – AI-Powered Learning Platform  
-📚 Personalized course recommendations, badges, and learning paths powered by AI
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-#### 🔸 Diabetes Prediction  
-🧬 Used Support Vector Machine (SVM) to achieve 78% train and 75% test accuracy
+### **Data Science & Analytics**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-#### 🔸 Indoor Navigation System (RTLS)  
-📍 Real-time tracking to improve location-based services and search optimization
+### **Visualization & BI Tools**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-#### 🔸 Malware Detection  
-🛡️ Implemented KNN and SVM models for threat detection and classification
-
-#### 🔸 Keratoconus Detection  
-👁️ ML-based early diagnosis system for eye diseases using medical imaging data
-
----
-
-### 📊 Featured Data Dashboards
-
-📈 **Stock Market Trends** – Visualized moving averages, trends, and forecasts (Tableau)  
-😊 **World Happiness Report** – Analyzed GDP, social support, freedom (Tableau)  
-🏦 **UK Bank Departures** – Churn analytics and regional patterns (Tableau)  
-🇧🇷 **Brazil Tourism Trends** – Explored seasonal & demographic patterns (Tableau)  
-📋 **Sales Executive Summary** – Business insights using Power BI  
-🚙 **Car Sales & Service Insights** – IBM Cognos-based dashboard analytics  
-📊 **Car Dealership Report** – Interactive Excel visualizations
+### **Cloud & Other Technologies**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### 🏅 Certifications
+## 🌟 Featured Projects
 
-- 📜 Google Data Analytics Professional Certificate  
-- 📜 Google Advanced Data Analytics  
-- 📜 IBM Data Analysis and Visualization  
-- 📜 AWS Academy Cloud Foundations  
-- 📜 Neural Networks & Deep Learning – DeepLearning.AI  
-- 📜 Python for Data Science & AI – IBM  
-- 📜 Tableau & Power BI for Data Visualization  
+### 🤖 [DashLearn: AI-Powered Personalized Learning Platform](https://github.com/uchasha2825/DashLearn)
+*Lead Developer*
+- **Impact**: 40% ↗️ user engagement, 25% ↗️ course completion, 15% ↘️ dropout rates
+- **Tech Stack**: Python, AI/ML algorithms, Real-time recommendation engine
+- Developed AI recommendation system and designed intuitive UI/UX
+
+### 📈 [Stock Market Analysis Dashboard](https://github.com/uchasha2825/SMD)
+*Data Analyst*
+- **Impact**: 30% improvement in investor decision-making through predictive forecasting
+- **Tech Stack**: Tableau, Statistical Analysis, Forecasting Models
+- Analyzed 3 years of market data using candlestick charts and trend analysis
+
+### 🏥 [Diabetes Prediction Using Machine Learning](https://github.com/uchasha2825/Diabetes)
+*Full-Stack Developer*
+- **Impact**: Enables early diabetes risk detection through real-time interface
+- **Tech Stack**: Python, Flask, scikit-learn, HTML, CSS, JavaScript
+- Led complete development from ML model to user interface
+
+### 🏦 [Bank Customer Churn Analysis Dashboard](https://github.com/uchasha2825/Bank)
+*Business Analyst*
+- **Impact**: Identified 70.55% of high-risk customers for targeted retention
+- **Tech Stack**: Tableau, Statistical Analysis, Interactive Visualizations
+- Developed dashboards with geographic and demographic filters
+
+### 🛒 [Supermarket Analysis Dashboard](https://github.com/uchasha2825/SuperMarket)
+*Data Analyst*
+- **Impact**: Delivered insights into sales trends and customer behavior
+- **Tech Stack**: Power BI, DAX, Microsoft Excel
+- Created interactive dashboards for strategic business decisions
 
 ---
 
-### 🌐 Connect With Me
+## 🎓 Education & Certifications
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/uchasha-mukherjee-409939284/"><img src="https://img.shields.io/badge/LinkedIn-Uchasha%20Mukherjee-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/uchasha2825"><img src="https://img.shields.io/badge/GitHub-uchasha2825-black?style=for-the-badge&logo=github"></a>
-  <a href="https://public.tableau.com/app/profile/uchasha.mukherjee/vizzes"><img src="https://img.shields.io/badge/Tableau-Dashboards-orange?style=for-the-badge&logo=tableau"></a>
-  <a href="https://www.credly.com/users/uchasha-mukherjee"><img src="https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly"></a>
-</p>
+**🎓 BTech in Computer Science Engineering**  
+*MIT ADT University* | Oct 2021 - July 2025 | CGPA: 7.62/10
+
+### 📜 Professional Certifications
+- 🥇 **Google Data Analytics Certificate**
+- 🥇 **Google Advanced Data Analytics**
+- 🥇 **Google Business Intelligence**
+- ☁️ **Microsoft Certified: Azure AI Fundamentals**
+- ☁️ **AWS Academy Graduate – AWS Academy Cloud Foundations**
+- 📊 **Data Visualization and Dashboards with Excel & Cognos** (IBM)
+- 📈 **IBM Data Analysis and Visualization Foundation**
 
 ---
 
-### 🌟 *“Driven by curiosity, powered by data.”*
+## 🏆 Leadership & Achievements
+
+### 🚀 **Smart India Hackathon 2024** - *Team Lead*
+*Aug 2024 – Oct 2024*
+- Led team in national-level hackathon focusing on innovative technology solutions
+
+### 🌍 **8th World Parliament** - *Event Coordinator*
+*Apr 2022 - May 2022*
+- Coordinated and managed logistics for international parliamentary event
+
+---
+
+## 📊 GitHub Stats
+
+![Uchasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchasha2825&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uchasha2825&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on data science projects and discuss innovative solutions!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uchasha-mukherjee/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchasha.mukherjee25@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uchasha2825)
+
+---
+
+⭐️ *"Turning data into insights, one dashboard at a time!"* ⭐️
+
+![Profile Views](https://komarev.com/ghpvc/?username=uchasha2825&color=blueviolet)
