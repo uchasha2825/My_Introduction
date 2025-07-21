@@ -9,6 +9,11 @@ I'm a **Computer Science Engineering graduate** from Mumbai, India, passionate a
 🎯 **Currently**: Exploring advanced AI/ML applications and seeking opportunities in data science
 
 ---
+## 🎓 Education
+**🎓 BTech in Computer Science Engineering**  
+*MIT ADT University* | Oct 2021 - July 2025 | CGPA: 7.62/10
+
+---
 
 ## 💼 Professional Experience
 
@@ -59,42 +64,37 @@ I'm a **Computer Science Engineering graduate** from Mumbai, India, passionate a
 
 ## 🌟 Featured Projects
 
-### 🤖 [DashLearn: AI-Powered Personalized Learning Platform](https://github.com/uchasha2825/DashLearn)
+### 🤖 [DashLearn: AI-Powered Personalized Learning Platform](https://github.com/uchasha2825/DashLearn---Personalized-Learning-Platform)
 *Lead Developer*
 - **Impact**: 40% ↗️ user engagement, 25% ↗️ course completion, 15% ↘️ dropout rates
 - **Tech Stack**: Python, AI/ML algorithms, Real-time recommendation engine
 - Developed AI recommendation system and designed intuitive UI/UX
 
-### 📈 [Stock Market Analysis Dashboard](https://github.com/uchasha2825/SMD)
+### 📈 [Stock Market Analysis Dashboard](https://github.com/uchasha2825/Stock-Market-Dashboard)
 *Data Analyst*
 - **Impact**: 30% improvement in investor decision-making through predictive forecasting
 - **Tech Stack**: Tableau, Statistical Analysis, Forecasting Models
 - Analyzed 3 years of market data using candlestick charts and trend analysis
 
-### 🏥 [Diabetes Prediction Using Machine Learning](https://github.com/uchasha2825/Diabetes)
+### 🏥 [Diabetes Prediction Using Machine Learning](https://github.com/uchasha2825/Diabetes_Prediction)
 *Full-Stack Developer*
 - **Impact**: Enables early diabetes risk detection through real-time interface
 - **Tech Stack**: Python, Flask, scikit-learn, HTML, CSS, JavaScript
 - Led complete development from ML model to user interface
 
-### 🏦 [Bank Customer Churn Analysis Dashboard](https://github.com/uchasha2825/Bank)
+### 🏦 [Bank Customer Churn Analysis Dashboard](https://github.com/uchasha2825/Bank-Departure)
 *Business Analyst*
 - **Impact**: Identified 70.55% of high-risk customers for targeted retention
 - **Tech Stack**: Tableau, Statistical Analysis, Interactive Visualizations
 - Developed dashboards with geographic and demographic filters
 
-### 🛒 [Supermarket Analysis Dashboard](https://github.com/uchasha2825/SuperMarket)
+### 🛒 [Supermarket Analysis Dashboard](https://github.com/uchasha2825/SuperMarket_Dashboard)
 *Data Analyst*
 - **Impact**: Delivered insights into sales trends and customer behavior
 - **Tech Stack**: Power BI, DAX, Microsoft Excel
 - Created interactive dashboards for strategic business decisions
 
 ---
-
-## 🎓 Education & Certifications
-
-**🎓 BTech in Computer Science Engineering**  
-*MIT ADT University* | Oct 2021 - July 2025 | CGPA: 7.62/10
 
 ### 📜 Professional Certifications
 - 🥇 **Google Data Analytics Certificate**
