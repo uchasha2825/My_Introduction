@@ -1,43 +1,18 @@
 # Hi there, I'm Uchasha Mukherjee! 👋
 
-## 🚀 About Me
+## 🚀 Data Scientist & AI Enthusiast | BTech Computer Science Student
 
-I'm a **Computer Science Engineering graduate** from Mumbai, India, passionate about transforming data into actionable insights! With expertise in **data analytics**, **machine learning**, and **business intelligence**, I love building solutions that drive data-driven decision-making.
+Welcome to my GitHub! I'm a passionate data scientist and machine learning enthusiast currently pursuing my BTech in Computer Science at MIT ADT University. I love turning data into actionable insights and building intelligent systems that solve real-world problems.
 
-🔍 **What I do**: Turn complex datasets into compelling stories through interactive dashboards and predictive models  
-📊 **My impact**: Delivered solutions that improved reporting efficiency by 40% and enhanced decision-making by 30%  
-🎯 **Currently**: Exploring advanced AI/ML applications and seeking opportunities in data science
+### 🎯 About Me
 
----
-## 🎓 Education
-**🎓 BTech in Computer Science Engineering**  
-*MIT ADT University* | Oct 2021 - July 2025 | CGPA: 7.62/10
+- 🎓 **Education**: BTech Computer Science at MIT ADT University (2021-2025) | CGPA: 7.62/10
+- 📍 **Location**: Mumbai, India
+- 💼 **Current Focus**: Data Analytics, Machine Learning, and AI-driven solutions
+- 🌱 **Learning**: Advanced AI techniques, Cloud Computing, and Business Intelligence
+- 🎯 **Goal**: Leveraging data science to drive meaningful business decisions
 
----
-
-## 💼 Professional Experience
-
-### 🏥 **Data Analyst Intern** @ MedTourEasy
-*March 2025 - May 2025*
-- Led "Three Healthcare Analytics" project analyzing patient trends and treatment preferences
-- Delivered interactive dashboards improving reporting efficiency by **40%**
-- Collaborated with cross-functional teams on strategic analytics projects
-
-### 💼 **Virtual Intern** @ Tata Consultancy Services (Forage)
-*June 2025*
-- Designed data visualizations for TCS senior leadership strategic decision-making
-- Created executive-level dashboards presenting key business trends
-- Prepared targeted discussion points for high-impact client meetings
-
-### 🔍 **Virtual Intern** @ Deloitte (Forage)
-*June 2025*
-- Completed data analytics and forensic technology simulation
-- Designed comprehensive Tableau dashboards for business insights
-- Utilized Excel for advanced data classification and analysis
-
----
-
-## 🛠️ Technical Skills
+### 🛠️ Tech Stack & Skills
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,83 +35,91 @@ I'm a **Computer Science Engineering graduate** from Mumbai, India, passionate a
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+**Specialized Areas**
+- 📊 Data Analytics & Visualization
+- 🤖 Machine Learning & Predictive Modeling  
+- 📈 Business Intelligence
+- ☁️ Cloud Computing (AWS)
+- 🗄️ Database Management Systems
 
-## 🌟 Featured Projects
+### 🏆 Certifications & Achievements
 
-### 🤖 [DashLearn: AI-Powered Personalized Learning Platform](https://github.com/uchasha2825/DashLearn---Personalized-Learning-Platform)
-*Lead Developer*
-- **Impact**: 40% ↗️ user engagement, 25% ↗️ course completion, 15% ↘️ dropout rates
-- **Tech Stack**: Python, AI/ML algorithms, Real-time recommendation engine
-- Developed AI recommendation system and designed intuitive UI/UX
+**Google Certifications**
+- 📊 Google Data Analytics Specialization (Nov 2024)
+- 📈 Google Advanced Data Analytics Specialization (March 2025)  
+- 💼 Google Business Intelligence Specialization (April 2025)
 
-### 📈 [Stock Market Analysis Dashboard](https://github.com/uchasha2825/Stock-Market-Dashboard)
-*Data Analyst*
-- **Impact**: 30% improvement in investor decision-making through predictive forecasting
-- **Tech Stack**: Tableau, Statistical Analysis, Forecasting Models
-- Analyzed 3 years of market data using candlestick charts and trend analysis
+**Cloud & Microsoft**
+- ☁️ AWS Academy Graduate - Cloud Foundations (April 2024)
+- 🔷 Microsoft Certified Azure Fundamentals (Jan 2025)
+- 🤖 Microsoft Certified Azure AI Fundamentals (Jan 2025)
 
-### 🏥 [Diabetes Prediction Using Machine Learning](https://github.com/uchasha2825/Diabetes_Prediction)
-*Full-Stack Developer*
-- **Impact**: Enables early diabetes risk detection through real-time interface
-- **Tech Stack**: Python, Flask, scikit-learn, HTML, CSS, JavaScript
-- Led complete development from ML model to user interface
+**Other Achievements**
+- 📊 IBM Data Analysis and Visualization Foundations Specialization (Nov 2024)
+- 🏆 Participated in Smart India Hackathon (SIH-2024)
 
-### 🏦 [Bank Customer Churn Analysis Dashboard](https://github.com/uchasha2825/Bank-Departure)
-*Business Analyst*
-- **Impact**: Identified 70.55% of high-risk customers for targeted retention
-- **Tech Stack**: Tableau, Statistical Analysis, Interactive Visualizations
-- Developed dashboards with geographic and demographic filters
+### 💼 Professional Experience
 
-### 🛒 [Supermarket Analysis Dashboard](https://github.com/uchasha2825/SuperMarket_Dashboard)
-*Data Analyst*
-- **Impact**: Delivered insights into sales trends and customer behavior
-- **Tech Stack**: Power BI, DAX, Microsoft Excel
-- Created interactive dashboards for strategic business decisions
+**🔥 Virtual Intern - Tata IQ, Forage** *(Aug 2025)*
+- Developed AI-driven financial risk analytics solutions using GenAI tools
+- Achieved **95% accuracy** in delinquency prediction models
+- Designed scalable AI-powered collections strategy with ethical AI compliance
 
----
+**📊 Data Analyst Intern - MedTourEasy** *(March - May 2025)*
+- Delivered interactive dashboards using Python, Tableau, Power BI, and SQL
+- Improved internal reporting efficiency by **40%**
+- Enhanced data-driven decision-making across cross-functional teams
 
-### 📜 Professional Certifications
-- 🥇 **Google Data Analytics Certificate**
-- 🥇 **Google Advanced Data Analytics**
-- 🥇 **Google Business Intelligence**
-- ☁️ **Microsoft Certified: Azure AI Fundamentals**
-- ☁️ **AWS Academy Graduate – AWS Academy Cloud Foundations**
-- 📊 **Data Visualization and Dashboards with Excel & Cognos** (IBM)
-- 📈 **IBM Data Analysis and Visualization Foundation**
+**📈 Virtual Intern - Tata, Forage** *(June 2025)*
+- Created executive-level data visualizations for Tata Consultancy Services
+- Developed strategic insights for senior leadership decision-making
 
----
+### 🚀 Featured Projects
 
-## 🏆 Leadership & Achievements
+#### 📈 [Stock Market Dashboard](https://github.com/uchasha2825)
+- **Tech Stack**: Tableau, Excel, Statistical Analysis
+- **Impact**: Improved investment decision-making by **30%**
+- Analyzed 3 years of Apple stock data with advanced forecasting models
 
-### 🚀 **Smart India Hackathon 2024** - *Team Lead*
-*Aug 2024 – Oct 2024*
-- Led team in national-level hackathon focusing on innovative technology solutions
+#### 🏪 [Supermarket Analysis Dashboard](https://github.com/uchasha2825)  
+- **Tech Stack**: Power BI, Power Query, Excel
+- **Impact**: Enhanced business decisions by **60%**
+- Optimized sales and marketing through customer behavior analysis
 
-### 🌍 **8th World Parliament** - *Event Coordinator*
-*Apr 2022 - May 2022*
-- Coordinated and managed logistics for international parliamentary event
+#### 🏥 [Diabetes Prediction System](https://github.com/uchasha2825)
+- **Tech Stack**: Python, Flask, Scikit-learn, Tkinter
+- **Features**: Real-time prediction with health recommendations
+- Built end-to-end ML system with modern GUI interface
 
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Uchasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchasha2825&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uchasha2825&layout=compact&theme=radical)
+### 🌟 What I'm Working On
+
+- 🔍 Advanced AI/ML projects focusing on real-world applications
+- 📊 Building comprehensive data analytics portfolios
+- ☁️ Exploring cloud-based AI solutions
+- 🤝 Contributing to open-source data science projects
+
+### 📫 Let's Connect!
+
+- 📧 **Email**: [uchasha.mukherjee25@gmail.com](mailto:uchasha.mukherjee25@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/uchasha-mukherjee](https://linkedin.com/in/uchasha-mukherjee)
+- 📱 **Phone**: +91 7385385016
+- 🌐 **Portfolio**: [View My Work](https://github.com/uchasha2825)
+
+### ⚡ Fun Facts
+
+- 🎯 I believe data tells the best stories when visualized creatively
+- 🚀 Always excited about hackathons and data challenges
+- 🌍 Passionate about using AI for social good
+- 📚 Continuous learner with multiple industry certifications
 
 ---
 
-## 🤝 Let's Connect!
+*"In God we trust. All others must bring data."* - W. Edwards Deming
 
-I'm always excited to collaborate on data science projects and discuss innovative solutions!
+![Profile Views](https://komarev.com/ghpvc/?username=uchasha2825&color=brightgreen)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uchasha-mukherjee/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchasha.mukherjee25@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uchasha2825)
-
----
-
-⭐️ *"Turning data into insights, one dashboard at a time!"* ⭐️
-
-![Profile Views](https://komarev.com/ghpvc/?username=uchasha2825&color=blueviolet)
+⭐ **Star my repositories if you find them helpful!**
