@@ -217,28 +217,57 @@
   
 ```mermaid
 graph LR
-    A[Current Skills] --> B[Advanced ML/DL]
-    B --> C[MLOps & Deployment]
-    C --> D[Big Data Technologies]
-    D --> E[Cloud Architecture]
-    E --> F[AI Product Management]
-    
-    style A fill:#FF6B6B,stroke:#fff,stroke-width:2px
-    style B fill:#4C8EDA,stroke:#fff,stroke-width:2px
-    style C fill:#50C878,stroke:#fff,stroke-width:2px
-    style D fill:#FFD700,stroke:#fff,stroke-width:2px
-    style E fill:#9370DB,stroke:#fff,stroke-width:2px
-    style F fill:#FF69B4,stroke:#fff,stroke-width:2px
+  A[Foundations] --> B[Excel & Spreadsheets]
+  A --> C[Statistics Basics]
+  A --> D[Business Understanding]
+
+  B --> E[Data Cleaning]
+  C --> F[SQL Essentials]
+  D --> G[EDA & Visualization]
+
+  E --> H[Python for Analysis]
+  F --> I[BI Dashboards]
+  G --> J[Case Studies]
+
+  H --> K[Projects Portfolio]
+  I --> K
+  J --> K
+
+  K --> L[Job Readiness]
+  L --> M[Certs & Learning Plans]
+  L --> N[Interview Practice]
+  L --> O[GitHub & Resume]
+
+  style A fill:#4C8EDA,stroke:#fff,stroke-width:2px
+  style B fill:#FFCC66,stroke:#fff,stroke-width:2px
+  style C fill:#FFCC66,stroke:#fff,stroke-width:2px
+  style D fill:#FFCC66,stroke:#fff,stroke-width:2px
+
+  style E fill:#50C878,stroke:#fff,stroke-width:2px
+  style F fill:#50C878,stroke:#fff,stroke-width:2px
+  style G fill:#50C878,stroke:#fff,stroke-width:2px
+
+  style H fill:#9370DB,stroke:#fff,stroke-width:2px
+  style I fill:#9370DB,stroke:#fff,stroke-width:2px
+  style J fill:#9370DB,stroke:#fff,stroke-width:2px
+
+  style K fill:#FFD700,stroke:#fff,stroke-width:2px
+
+  style L fill:#FF6B6B,stroke:#fff,stroke-width:2px
+  style M fill:#FF6B6B,stroke:#fff,stroke-width:2px
+  style N fill:#FF6B6B,stroke:#fff,stroke-width:2px
+  style O fill:#FF6B6B,stroke:#fff,stroke-width:2px
+
 ```
 
 </div>
 
 ### 🎓 Currently Learning
-- 🧠 Deep Learning & Neural Networks
-- 📊 Advanced Statistical Modeling
-- 🔄 Real-time Data Processing
-- 🏗️ Data Engineering & ETL Pipelines
-- 🎨 Advanced Data Visualization Techniques
+- 📈 Excel fundamentals, pivot tables, and Power Query for fast analysis impact
+- 🗃️ SQL essentials: SELECT, JOIN, GROUP BY, CTEs, window functions
+- 📊 BI dashboards in Power BI/Tableau with data modeling and publishing
+- 🧪 EDA and visualization with clear KPI storytelling
+- 🐍 Python for analysis: pandas, NumPy, matplotlib/seaborn basics
 
 ---
 
